@@ -1,0 +1,6 @@
+{
+  "name": "SamChat",
+  "description": "A private, secure GenZ couples social space featuring private chat, typing controls, screenshot alerts, encrypted-style voice/video calls, and a mutual 72h breakup wipe protocol.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
